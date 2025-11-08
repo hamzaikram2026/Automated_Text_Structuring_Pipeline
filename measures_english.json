@@ -1,0 +1,322 @@
+{
+    "measures": [
+        {"name": "teaspoon",
+         "forms": [
+             "teaspoon",
+             "t",
+             "tsp",
+             "tsp.",
+             "t.",
+             "tsps",
+             "tsps."
+         ]},
+        {"name": "barspoon",
+         "forms": [
+             "barspoon",
+             "bsp",
+             "bsp."
+         ]},
+        {"name": "smidgeon",
+         "forms": [
+             "smidgeon",
+             "smdg",
+             "smdg."
+         ]},
+        {"name": "scruple",
+         "forms": [
+             "scruple",
+             "scr.",
+             "scr"
+         ]},
+        {"name": "hooker",
+         "forms": [
+             "hooker"
+         ]},
+        {"name": "snit",
+         "forms": [
+             "snit"
+         ]},
+        {"name": "gill",
+         "forms": [
+             "gill"
+         ]},
+        {"name": "teacup",
+         "forms": [
+             "teacup",
+             "tea-cup",
+             "tcp",
+             "tcp."
+         ]},
+        {"name": "tablespoon",
+         "forms": [
+             "tablespoon",
+             "T",
+             "tbl",
+             "tb",
+             "tb.",
+             "tbs",
+             "tbsp",
+             "tbsp.",
+             "tbs.",
+             "tbl.",
+             "tbsps",
+             "tbsps.",
+             "tblsp.",
+             "tblsp"
+         ]},
+        {"name": "fluid ounce",
+         "forms": [
+             "fluid ounce",
+             "fl oz",
+             "fl. oz.",
+             "fl oz.",
+             "fl. oz"
+         ]},
+        {"name": "cup",
+         "forms": [
+             "cup",
+             "c",
+             "cp",
+             "c."
+         ]},
+        {"name": "pint",
+         "forms": [
+             "pint",
+             "p",
+             "pt",
+             "pt.",
+             "p."
+         ]},
+        {"name": "quart",
+         "forms": [
+             "quart",
+             "q",
+             "qt",
+             "fl qt",
+             "q.",
+             "qt.",
+             "fl. qt.",
+             "fl qt.",
+             "fl. qt"
+         ]},
+        {"name": "fifth",
+         "forms": [
+             "fifth",
+             "traditional fifth"
+         ]},
+        {"name": "shot",
+         "forms": [
+             "shot"
+         ]},
+        {"name": "sheet",
+         "forms": [
+             "sheet",
+             "sht",
+             "sht."
+         ]},
+        {"name": "gallon",
+         "forms": [
+             "g",
+             "gl",
+             "gal",
+             "gallon",
+             "gal.",
+             "g.",
+             "gl."
+         ]},
+        {"name": "pound",
+         "forms": [
+             "pound",
+             "lb",
+             "lb."
+         ]},
+        {"name": "ounce",
+         "forms": [
+             "ounce",
+             "oz",
+             "oz."
+         ]},
+        {"name": "milligram",
+         "forms": [
+             "milligram",
+             "miligram",
+             "mg",
+             "milligramme",
+             "mgr",
+             "mg.",
+             "mgr."
+         ]},
+        {"name": "gram",
+         "forms": [
+             "gram",
+             "g",
+             "gr",
+             "gramme",
+             "gr.",
+             "g.",
+             "gm.",
+             "gm"
+         ]},
+        {"name": "kilogram",
+         "forms": [
+             "kilogram",
+             "kilogramme",
+             "kg",
+             "kgr",
+             "kg.",
+             "kgr."
+         ]},
+        {"name": "general",
+         "forms": [
+             "piece",
+             "pc.",
+             "pc",
+             "pcs",
+             "pcs.",
+             "unit",
+             "tin",
+             "pinch",
+             "pn",
+             "pn.",
+             "can",
+             "cans",
+             "canned",
+             "slice",
+             "sli",
+             "sli.",
+             "part",
+             "package",
+             "splash",
+             "drizzle",
+             "sprinkle",
+             "dollop",
+             "dash",
+             "ds.",
+             "ds",
+             "drop",
+             "handful",
+             "to taste",
+             "heaping",
+             "generous"
+         ]},
+        {"name": "vegetable",
+         "forms": [
+             "clove",
+             "stalk",
+             "sprig",
+             "spg",
+             "spg.",
+             "stick",
+             "bunch",
+             "bn",
+             "bn.",
+             "leaf",
+             "lf.",
+             "lf",
+             "bundle",
+             "twig",
+             "bulb",
+             "link",
+             "cube",
+             "head"
+         ]},
+        {"name": "bottle",
+         "forms": [
+             "bottle",
+             "bottles",
+             "bottled"
+         ]},
+        {"name": "bag",
+         "forms": [
+             "bag"
+         ]},
+        {"name": "twist",
+         "forms": [
+             "twist",
+             "twst",
+             "twst."
+         ]},
+        {"name": "jigger",
+         "forms": [
+             "jigger"
+         ]},
+        {"name": "liter",
+         "forms": [
+             "litre",
+             "liter",
+             "l",
+             "l."
+         ]},
+        {"name": "centiliter",
+         "forms": [
+             "centiliter",
+             "centilitre",
+             "cl",
+             "cl."
+         ]},
+        {"name": "milliliter",
+         "forms": [
+             "milliliter",
+             "mililiter",
+             "millilitre",
+             "ml",
+             "ml."
+         ]},
+        {"name": "inch",
+         "forms": [
+             "inch",
+             "inches"
+         ]},
+        {"name": "package",
+         "forms": [
+             "packet",
+             "packets",
+             "packed",
+             "packages",
+             "packaged",
+             "package",
+             "pkg",
+            " pkg.",
+             "pkt",
+             "pkt.",
+             "pk",
+             "pk.",
+             "pkgs.",
+             "pkgs"
+         ]},
+        {"name": "centimeter",
+         "forms": [
+             "centimeter",
+             "centimetre",
+             "cm",
+             "cm.",
+             "cms",
+             "cms."
+         ]},
+        {"name": "millimeter",
+         "forms": [
+             "millimeter",
+             "millimetre",
+             "mm",
+             "mm."
+         ]},
+         {"name": "jar",
+         "forms": [
+             "jar",
+             "jars",
+             "jarred"
+         ]},
+         {"name": "box",
+         "forms": [
+             "box",
+             "boxes",
+             "boxed"
+         ]},
+         {"name": "container",
+         "forms": [
+             "contained",
+             "container",
+             "containers"
+         ]}
+    ]
+}
