@@ -1,0 +1,70 @@
+<svg viewBox="0 0 1400 480" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="1400" height="480" fill="#0b1e2d"/>
+
+  <text x="40" y="50" fill="#ffffff" font-size="26" font-weight="bold">Before → After</text>
+  <text x="40" y="78" fill="#9fb3c0" font-size="15">Unstructured ingredient text transformed into clean, structured fields</text>
+
+  <!-- Column headers -->
+  <text x="40" y="120" fill="#1f9e8f" font-size="16" font-weight="bold">RAW INPUT</text>
+  <text x="740" y="120" fill="#1f9e8f" font-size="16" font-weight="bold">STRUCTURED OUTPUT</text>
+
+  <line x1="40" y1="130" x2="1360" y2="130" stroke="#274a5f" stroke-width="1"/>
+
+  <!-- Row template function replicated manually -->
+  <!-- Row 1 -->
+  <text x="40" y="165" fill="#e8eef2" font-size="15" font-family="Consolas, monospace">"1 1/4 cups cooked and pureed fresh butternut squash"</text>
+  <rect x="740" y="145" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="785" y="165" text-anchor="middle" fill="#ffffff" font-size="13">1.25</text>
+  <rect x="845" y="145" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="890" y="165" text-anchor="middle" fill="#ffffff" font-size="13">cup</text>
+  <rect x="950" y="145" width="360" height="30" rx="6" fill="#12293c"/>
+  <text x="1130" y="165" text-anchor="middle" fill="#ffffff" font-size="13">butternut squash</text>
+
+  <line x1="40" y1="190" x2="1360" y2="190" stroke="#1a3446" stroke-width="1"/>
+
+  <!-- Row 2 -->
+  <text x="40" y="222" fill="#e8eef2" font-size="15" font-family="Consolas, monospace">"2 stalks celery, chopped coarse"</text>
+  <rect x="740" y="202" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="785" y="222" text-anchor="middle" fill="#ffffff" font-size="13">2</text>
+  <rect x="845" y="202" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="890" y="222" text-anchor="middle" fill="#ffffff" font-size="13">stalk</text>
+  <rect x="950" y="202" width="360" height="30" rx="6" fill="#12293c"/>
+  <text x="1130" y="222" text-anchor="middle" fill="#ffffff" font-size="13">celery</text>
+
+  <line x1="40" y1="247" x2="1360" y2="247" stroke="#1a3446" stroke-width="1"/>
+
+  <!-- Row 3 -->
+  <text x="40" y="279" fill="#e8eef2" font-size="15" font-family="Consolas, monospace">"1 medium-size onion, peeled and chopped"</text>
+  <rect x="740" y="259" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="785" y="279" text-anchor="middle" fill="#ffffff" font-size="13">1</text>
+  <rect x="845" y="259" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="890" y="279" text-anchor="middle" fill="#9fb3c0" font-size="13">—</text>
+  <rect x="950" y="259" width="360" height="30" rx="6" fill="#12293c"/>
+  <text x="1130" y="279" text-anchor="middle" fill="#ffffff" font-size="13">onion</text>
+
+  <line x1="40" y1="304" x2="1360" y2="304" stroke="#1a3446" stroke-width="1"/>
+
+  <!-- Row 4 -->
+  <text x="40" y="336" fill="#e8eef2" font-size="15" font-family="Consolas, monospace">"2 tablespoons fresh chopped basil leaves"</text>
+  <rect x="740" y="316" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="785" y="336" text-anchor="middle" fill="#ffffff" font-size="13">2</text>
+  <rect x="845" y="316" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="890" y="336" text-anchor="middle" fill="#ffffff" font-size="13">tbsp</text>
+  <rect x="950" y="316" width="360" height="30" rx="6" fill="#12293c"/>
+  <text x="1130" y="336" text-anchor="middle" fill="#ffffff" font-size="13">basil leaves</text>
+
+  <line x1="40" y1="361" x2="1360" y2="361" stroke="#1a3446" stroke-width="1"/>
+
+  <!-- Row 5 -->
+  <text x="40" y="393" fill="#e8eef2" font-size="15" font-family="Consolas, monospace">"6 ounces fresh sliced mushrooms"</text>
+  <rect x="740" y="373" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="785" y="393" text-anchor="middle" fill="#ffffff" font-size="13">6</text>
+  <rect x="845" y="373" width="90" height="30" rx="6" fill="#12293c"/>
+  <text x="890" y="393" text-anchor="middle" fill="#ffffff" font-size="13">ounce</text>
+  <rect x="950" y="373" width="360" height="30" rx="6" fill="#12293c"/>
+  <text x="1130" y="393" text-anchor="middle" fill="#ffffff" font-size="13">mushroom</text>
+
+  <text x="740" y="440" fill="#5f7d8f" font-size="12">Qty</text>
+  <text x="845" y="440" fill="#5f7d8f" font-size="12">Unit</text>
+  <text x="1050" y="440" fill="#5f7d8f" font-size="12">Food Item</text>
+</svg>
