@@ -127,7 +127,7 @@ A detailed project presentation explaining the methodology, architecture, implem
 
 A couple of other projects from my portfolio that may be relevant:
 
-- **[Pharmaceutical Inventory Demand Forecasting](https://github.com/hamzaikram2026/Pharmaceutical-Inventory-Demand-Forecasting-using-Machine-Learning)** — Time-series demand forecasting for pharma inventory using `RandomForestRegressor` (R² = 0.95)
+- **[Pharmaceutical Inventory Demand Forecasting](https://github.com/hamzaikram2026/Pharmaceutical-Inventory-Demand-Forecasting-using-Machine-Learning)** — Machine learning pipeline for pharmaceutical inventory analytics with temporal feature engineering using `RandomForestRegressor` (R² = 0.95)
 - **[AutoInsight](https://github.com/hamzaikram2026/AutoInsight-Automated_EDA-Predictive_Modeling_Pipeline-)** — An automated EDA + predictive modeling pipeline built as a Streamlit app
 
 ---
